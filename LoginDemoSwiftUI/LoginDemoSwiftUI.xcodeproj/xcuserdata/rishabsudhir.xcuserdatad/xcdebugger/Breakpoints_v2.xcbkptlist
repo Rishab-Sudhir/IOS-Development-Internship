@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0ACD399-8662-4C2C-A39A-BD3785345452"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17734196-354C-4DF6-AC52-21339704D353"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginDemoSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "17734196-354C-4DF6-AC52-21339704D353 - 3a58c58278d7a035"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userImage : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userName : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.passWord : some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in LoginDemoSwiftUI.ContentView.body.getter : some"
+                  moduleName = "LoginDemoSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/LoginDemoSwiftUI/LoginDemoSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "907">
+               </Location>
+               <Location
+                  uuid = "17734196-354C-4DF6-AC52-21339704D353 - a2f0313061f44f25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userImage : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userName : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.passWord : some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in LoginDemoSwiftUI.ContentView.body.getter : some"
+                  moduleName = "LoginDemoSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/LoginDemoSwiftUI/LoginDemoSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8DA1371-6F61-4E0B-87B6-8F52ED9D3440"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginDemoSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E8DA1371-6F61-4E0B-87B6-8F52ED9D3440 - 6182b74babdaeb30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userImage : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userName : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.passWord : some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in LoginDemoSwiftUI.ContentView.body.getter : some"
+                  moduleName = "LoginDemoSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/LoginDemoSwiftUI/LoginDemoSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E8DA1371-6F61-4E0B-87B6-8F52ED9D3440 - df53d40b3ccb722b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.Text in closure #3 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userImage : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userName : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.passWord : some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in LoginDemoSwiftUI.ContentView.body.getter : some"
+                  moduleName = "LoginDemoSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/LoginDemoSwiftUI/LoginDemoSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F67B612-18B5-4830-90BE-2023CA5B5BD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginDemoSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8F67B612-18B5-4830-90BE-2023CA5B5BD2 - 3a58c58278d7a014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userImage : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userName : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.passWord : some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in LoginDemoSwiftUI.ContentView.body.getter : some"
+                  moduleName = "LoginDemoSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/LoginDemoSwiftUI/LoginDemoSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "801">
+               </Location>
+               <Location
+                  uuid = "8F67B612-18B5-4830-90BE-2023CA5B5BD2 - df85ed7ff70734fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userImage : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.userName : some&gt;&gt;.0, &lt;&lt;opaque return type of LoginDemoSwiftUI.ContentView.passWord : some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in LoginDemoSwiftUI.ContentView.body.getter : some"
+                  moduleName = "LoginDemoSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/LoginDemoSwiftUI/LoginDemoSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7771EA2-4EB5-4ADB-AF1A-01E8EC265E0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginDemoSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
