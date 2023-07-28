@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "56901CB6-EE93-4675-8411-A301ACD02418"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E76F644-251F-4E52-B614-35116EE0A5C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewTut/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E76F644-251F-4E52-B614-35116EE0A5C5 - 47f4068f9c175563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "8E76F644-251F-4E52-B614-35116EE0A5C5 - 47f4068f9c175563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "155">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewTut/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF - 47f4068f9c17551c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF - 47f4068f9c17551c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "379">
+               </Location>
+               <Location
+                  uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF - 47f4068f9c17551c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "751">
+               </Location>
+               <Location
+                  uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF - 47f4068f9c17551c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "283">
+               </Location>
+               <Location
+                  uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF - 47f4068f9c17551c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "366">
+               </Location>
+               <Location
+                  uuid = "020172CB-168B-48EB-9F85-607D89D0EFCF - 47f4068f9c17551c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "701">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2917342-38BA-4393-9E8E-5C3E7FA7E846"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewTut/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2917342-38BA-4393-9E8E-5C3E7FA7E846 - 47f4068f9c17553d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "F2917342-38BA-4393-9E8E-5C3E7FA7E846 - 47f4068f9c1754de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F997A7F1-A521-42A4-A3FC-9D140031B944"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewTut/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F997A7F1-A521-42A4-A3FC-9D140031B944 - 47f4068f9c1754de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "591">
+               </Location>
+               <Location
+                  uuid = "F997A7F1-A521-42A4-A3FC-9D140031B944 - 47f4068f9c1754de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.CollectionViewController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewTut/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30 - 4e812165b49f2c6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.ViewController.treeName.getter : Swift.String"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30 - 30efca0d0fb43c5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.ViewController.treeName.setter : Swift.String"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30 - 708de4bd0e6c586b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.ViewController.treeName.modify : Swift.String"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30 - 3c3b10466bb8cc81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.ViewController.treeName.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30 - 1a8fd6d328f6bcb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CollectionViewTut.ViewController"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "121">
+               </Location>
+               <Location
+                  uuid = "F50C380B-0AB5-4F27-98C3-8CF5335B0C30 - d495cbbd587f7a4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewTut.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CollectionViewTut.ViewController&gt;"
+                  moduleName = "CollectionViewTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rishabsudhir/Desktop/Fi/CollectionViewTut/CollectionViewTut/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C717E8D-EE85-45AE-AE6A-91252C5831E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewTut/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
