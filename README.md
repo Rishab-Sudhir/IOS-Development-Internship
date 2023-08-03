@@ -18,3 +18,5 @@ IOS14 Search Bar is something i created because their app has to be compatible w
 specifically compatible with IOS14.
 
 The expandable cards file contains a rough idea of the way an expandable card would work, still needs modifications though
+- Add a spacer to the bottom of the contentView that contains all the expandable cards, so that they stay are the top when
+collapsed.
